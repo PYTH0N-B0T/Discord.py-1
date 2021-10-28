@@ -7,4 +7,5 @@ Make sure you're logged on to the Discord website.<br>
 Navigate to the application page.<br>
 Click on the “New Application” button.<br>
 Give the application a name and click “Create”.<br>
-Go to the “Bot” tab and then click “Add Bot”. You will have to confirm by clicking "Yes, do it!
+Go to the “Bot” tab and then click “Add Bot”. You will have to confirm by clicking "Yes, do it!<br>
+Copy and api and paste it on the last line (client.run('paste the api here'))
